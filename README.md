@@ -18,4 +18,7 @@ This repository contains the Visual Components simulation project for automating
 ## Prerequisites  
 To run this simulation, you will need:  
 - Visual Components Premium or Essentials  
-- Basic knowledge of robotic simulations and Visual Components interface  
+- Basic knowledge of robotic simulations and Visual Components interface
+
+## Link to download simulation Files
+https://tuni-my.sharepoint.com/:f:/g/personal/ahmad_shirwany_tuni_fi/EtlwoHEFxGNOhbD3IE7uw94BH98rAWSrYtMXY-137i0Oqw?e=DVC3Rd
